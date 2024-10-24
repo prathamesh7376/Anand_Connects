@@ -30,7 +30,7 @@ const About = () => {
             health benefits and try out delicious recipes!
           </p>
           <a
-            href="#learn-more"
+            href="https://www.healthline.com/nutrition/makhana-benefits"
             className="mt-6 inline-block bg-red-600 text-white py-2 px-4 rounded-md shadow-md hover:bg-red-700 transition-all duration-300"
           >
             LEARN MORE
